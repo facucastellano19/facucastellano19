@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Systems Analysis student from Argentina, currently in my final year. I am practicing and focusing mostly on Kotlin Android (trainee level). I love programming, learning, and innovating. I'm passionate about building useful and creative things.
+I am a Systems Analysis student, currently in my final year. I am practicing and focusing mostly on Kotlin Android (trainee level). I love programming, learning, and innovating. I'm passionate about building useful and creative things.
 
 - 🌱 I’m currently learning ...
   - Kotlin

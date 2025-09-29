@@ -7,9 +7,9 @@ I love programming, learning, and innovating. I'm passionate about building usef
 
 🌱 I’m currently learning ...
 
-Backend with JavaScript (Node.js & Express)
-Python
-Angular
+- Backend with JavaScript (Node.js & Express)
+- Python
+- Angular
 
 📫 Reach out to me at: castellanofacundo05@gmail.com
 

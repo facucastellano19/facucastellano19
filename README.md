@@ -5,9 +5,9 @@
 I am a Systems Analysis student, currently in my final year. I am practicing and focusing mostly on Kotlin Android (trainee level). I love programming, learning, and innovating. I'm passionate about building useful and creative things.
 
 - 🌱 I’m currently learning ...
-  - Kotlin
-  - Python
   - JavaScript with Node.js
+  - Python
+  - Angular
 
 - 📫 Reach out to me at: <a href="mailto:castellanofacundo05@gmail.com">castellanofacundo05@gmail.com</a>
 

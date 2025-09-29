@@ -2,15 +2,18 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Systems Analysis student, currently in my final year. I am practicing and focusing mostly on Kotlin Android (trainee level). I love programming, learning, and innovating. I'm passionate about building useful and creative things.
+I am a Systems Analysis student, currently in my final year. At the moment, I’m focusing on Backend Development with JavaScript and Express.
+I love programming, learning, and innovating. I'm passionate about building useful and creative things.
 
-- 🌱 I’m currently learning ...
-  - JavaScript with Node.js
-  - Python
-  - Angular
+🌱 I’m currently learning ...
 
-- 📫 Reach out to me at: <a href="mailto:castellanofacundo05@gmail.com">castellanofacundo05@gmail.com</a>
+Backend with JavaScript (Node.js & Express)
+Python
+Angular
 
+📫 Reach out to me at: castellanofacundo05@gmail.com
+
+My Skills Include
 ## My Skills Include
 
 <h4> Languages </h4>
